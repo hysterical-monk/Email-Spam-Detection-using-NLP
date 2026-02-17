@@ -1,4 +1,4 @@
-#📧 Email Spam Detection using NLP
+# 📧 Email Spam Detection using NLP
 
 This project demonstrates Email Spam Detection using Natural Language Processing (NLP) techniques.
 It is a conceptual and educational implementation, where a small set of sample email messages (10–15 examples) is manually included in the code instead of using a large dataset.
